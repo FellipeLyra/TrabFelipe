@@ -1,5 +1,3 @@
-package felipe;
-
 import java.util.Scanner;
 
 public class Ex1 {
